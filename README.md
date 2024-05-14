@@ -24,13 +24,19 @@ Create a Vnet and edit the subnet configuration<img width="855" alt="Screenshot 
 
 Validate the Vnet<img width="1468" alt="Screenshot 2024-05-13 at 9 15 48 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/df410ac7-7478-4ead-afd9-be0e3c85a9c3">
 
-Create a load balancer and configure Fronetend IP<img width="586" alt="Screenshot 2024-05-13 at 9 16 58 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/418b879a-df8d-41f4-95e9-371f17afda7f">
+Create a load balancer and configure Fronetend IP
+
+<img width="586" alt="Screenshot 2024-05-13 at 9 16 58 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/418b879a-df8d-41f4-95e9-371f17afda7f">
 
 Do the same with backend<img width="1446" alt="Screenshot 2024-05-13 at 9 17 54 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/48aed447-4d73-4c7a-8627-d2be718894ea">
 
-Create Load Balancing rule<img width="587" alt="Screenshot 2024-05-13 at 9 19 41 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/05103b44-d093-4da0-924d-db8d8486afbb">
+Create Load Balancing rule
 
-Validate Load Balancer<img width="1470" alt="Screenshot 2024-05-13 at 9 20 27 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/423563f0-fa82-45de-9fa5-c8ccb917d3ad">
+<img width="587" alt="Screenshot 2024-05-13 at 9 19 41 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/05103b44-d093-4da0-924d-db8d8486afbb">
+
+Validate Load Balancer
+
+<img width="1470" alt="Screenshot 2024-05-13 at 9 20 27 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/423563f0-fa82-45de-9fa5-c8ccb917d3ad">
 
 Create Private Link Service<img width="1470" alt="Screenshot 2024-05-13 at 9 23 14 PM" src="https://github.com/Hunter102002/Create-Private-Link-Service/assets/98543129/397abe65-d78b-4924-a639-de173d9b77c0">
 
